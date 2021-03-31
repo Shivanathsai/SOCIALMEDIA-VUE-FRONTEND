@@ -1,6 +1,6 @@
 # social-media-frontend
 
-Is a Social Media Application.
+Is a Social Media Application
 
 Social media are interactive computer-mediated technologies that facilitate the creation and sharing of information, ideas, career interests and other forms of expression via virtual communities and networks.
 
